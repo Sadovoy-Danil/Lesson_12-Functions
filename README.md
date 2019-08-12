@@ -30,7 +30,7 @@ _**Для того чтобы переменная воздействовала 
 <p><img src = 'img/function_declaration.png' align = 'left'>
 <img src = 'img/function_expression.png' align = 'right'></p>
 
-<br>
+<br><br><br><br>
 
 **Если вы используете _Function Expression_, то у вас не получится вызвать функцию раньше её объявления.**
 
