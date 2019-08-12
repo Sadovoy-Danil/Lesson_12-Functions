@@ -27,10 +27,10 @@ _**Для того чтобы переменная воздействовала 
 
 **Используя _return_ в функции можно передавать переменные в глобальное использывание**
 
-<p>
-<img src = 'img/function_declaration.png' align = 'left'>
-<img src = 'img/function_expression.png' align = 'right'>
-</p>
+<p><img src = 'img/function_declaration.png' align = 'left'>
+<img src = 'img/function_expression.png' align = 'right'></p>
+
+<br>
 
 **Если вы используете _Function Expression_, то у вас не получится вызвать функцию раньше её объявления.**
 
