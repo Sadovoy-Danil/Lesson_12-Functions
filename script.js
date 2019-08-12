@@ -1,7 +1,9 @@
+let num = 20;
+
 function showFirstMessage (text) {
     alert(text);
-    let num = 20;
+    num = 10;
 }
 
 showFirstMessage('Hello World!');
-console.log(num); // is not defined
+console.log(num); // it's OKay
