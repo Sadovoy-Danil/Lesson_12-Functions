@@ -27,7 +27,8 @@ _**Для того чтобы переменная воздействовала 
 
 **Используя _return_ в функции можно передавать переменные в глобальное использывание**
 
-<img src = 'function_declaration_and_expression.png'>
+<img src = 'img/function_declaration.png'>
+<img src = 'img/function_expression.png'>
 
 **Если вы используете _Function Expression_, то у вас не получится вызвать функцию раньше её объявления.**
 
