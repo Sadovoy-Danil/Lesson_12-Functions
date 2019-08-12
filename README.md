@@ -43,3 +43,5 @@ _**Словарь**_
 [_Function Declaration_](https://learn.javascript.ru/function-expressions-arrows) — «Декларация функции» создается до выполнения любого кода.
 
 [_Function Expression_](https://learn.javascript.ru/function-expressions-arrows) — «Функциональное выражение» будет создано только в момент, когда интерпретатор дойдёт до данной строки кода.
+
+[_Стрелочная функция_](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Arrow_functions) — упрощонная модель аннонимной функции.
