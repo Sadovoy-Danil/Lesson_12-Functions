@@ -2,7 +2,8 @@ let num = 20;
 
 function showFirstMessage (text) {
     alert(text);
-    num = 10;
+    let num = 10;
+    console.log(num);
 }
 
 showFirstMessage('Hello World!');
