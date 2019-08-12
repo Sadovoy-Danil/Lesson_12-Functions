@@ -1,10 +1,16 @@
-let num = 20;
+// let num = 20;
 
-function showFirstMessage (text) {
-    alert(text);
-    let num = 10;
-    console.log(num);
+// function showFirstMessage (text) {
+//     alert(text);
+//     console.log(num);
+// }
+
+// showFirstMessage('Hello World!');
+// console.log(num); // it's OKay
+
+function calc(a, b) {
+    return (a + b); // Возврат
 }
 
-showFirstMessage('Hello World!');
-console.log(num); // it's OKay
+console.log(calc(3, 4));
+console.log(calc(7, 8));
