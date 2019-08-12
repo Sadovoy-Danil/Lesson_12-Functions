@@ -4,4 +4,4 @@ function showFirstMessage (text) {
 }
 
 showFirstMessage('Hello World!');
-console.log(num);
+console.log(num); // is not defined
