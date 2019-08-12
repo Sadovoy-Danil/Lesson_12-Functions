@@ -14,3 +14,12 @@ function calc(a, b) {
 
 console.log(calc(3, 4));
 console.log(calc(7, 8));
+
+function returnVariable() {
+    let num = 50;
+    return num;
+}
+
+let anotherNum = returnVariable();
+
+console.log(anotherNum);
