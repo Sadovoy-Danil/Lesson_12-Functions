@@ -27,3 +27,9 @@ let anotherNum = returnVariable();
 console.log(anotherNum);
 
 let arrowFunc = (a, b) => a + b;
+
+let str = 'Test';
+console.log(str.length); // Длина строки переменной str (property «Свойство»)
+
+console.log(str.toUpperCase()); // Вывод переменной str в верхнем регистре (method «Метод»)
+console.log(str.toLowerCase()); // Вывод переменной str в нижнем регистре (method «Метод»)
