@@ -25,3 +25,5 @@ let returnVariable = function() {
 let anotherNum = returnVariable();
 
 console.log(anotherNum);
+
+let arrowFunc = (a, b) => a + b;
