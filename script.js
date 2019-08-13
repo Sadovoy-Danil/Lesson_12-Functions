@@ -33,3 +33,9 @@ console.log(str.length); // Длина строки переменной str (pr
 
 console.log(str.toUpperCase()); // Вывод переменной str в верхнем регистре (method «Метод»)
 console.log(str.toLowerCase()); // Вывод переменной str в нижнем регистре (method «Метод»)
+
+let twelve = '12.4px';
+
+// console.log(Math.round(twelve)); // Округляет до целого числа
+console.log(parseInt(twelve)); // Откидывает все значения после точки
+console.log(parseFloat(twelve)); // Возращает десятичное число
