@@ -27,10 +27,18 @@ _**Для того чтобы переменная воздействовала 
 
 **Используя _return_ в функции можно передавать переменные в глобальное использывание**
 
-<img src = 'img/function_declaration.png'>
-<img src = 'img/function_expression.png'>
+<br>
+
+<p><img src = 'img/function_declaration.png' align = 'left'>
+<img src = 'img/function_expression.png' align = 'right'></p>
+
+<br><br><br><br>
 
 **Если вы используете _Function Expression_, то у вас не получится вызвать функцию раньше её объявления.**
+
+**Пример стрелочной функции:**
+
+> _let arrowFunc = (a, b) => a + b;_
 
 <hr>
 
@@ -39,3 +47,5 @@ _**Словарь**_
 [_Function Declaration_](https://learn.javascript.ru/function-expressions-arrows) — «Декларация функции» создается до выполнения любого кода.
 
 [_Function Expression_](https://learn.javascript.ru/function-expressions-arrows) — «Функциональное выражение» будет создано только в момент, когда интерпретатор дойдёт до данной строки кода.
+
+[_Стрелочная функция_](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Arrow_functions) — упрощонная модель аннонимной функции.
