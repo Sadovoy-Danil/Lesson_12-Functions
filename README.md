@@ -42,6 +42,10 @@ _**Для того чтобы переменная воздействовала 
 
 <hr>
 
+<img src = 'img/function.jpg'>
+
+<hr>
+
 _**Словарь**_
 
 [_Function Declaration_](https://learn.javascript.ru/function-expressions-arrows) — «Декларация функции» создается до выполнения любого кода.
